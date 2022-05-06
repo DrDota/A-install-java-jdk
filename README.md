@@ -32,7 +32,7 @@ sudo apt-get install openjdk-8-jre-headless
 
 
 
-## Ravesh (2)
+## Ravesh (3)
 
 ```bash
 sudo add-apt-repository ppa:openjdk-r/ppa
